@@ -7,4 +7,4 @@ if [ ! -x .venv/bin/python ]; then
     python3 -m venv .venv
     .venv/bin/pip install -q unicorn
 fi
-exec .venv/bin/python tests/test_intro.py
+exec .venv/bin/python tests/test_demo.py
