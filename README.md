@@ -6,6 +6,10 @@
 
 ![MOIRE.COM running in DOSBox](screenshot.jpg)
 
+![MOIRE in motion](docs/moire.gif)
+
+*Rendered frame by frame from the real binary running in an emulated CPU (Unicorn), with a model of the display hardware: no screen recording. Checked against real DOSBox screenshots.*
+
 131 bytes (class 256) of x86 assembly: two sets of concentric rings, one orbiting the other, combined with XOR into a hypnotic interference pattern, under a dense rolling rainbow palette.
 
 | | |
